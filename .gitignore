@@ -1,0 +1,17 @@
+# python files that were only used for tests
+brain.py
+cat.py
+
+# config and such
+package-lock.json
+package.json
+poetry.lock
+pyproject.toml
+libopus.so.0.8.0
+.replit
+.breakpoints
+node_modules/
+.config/
+venv/
+__pycache__/
+.upm/
