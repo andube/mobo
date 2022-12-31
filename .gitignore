@@ -7,6 +7,7 @@ package-lock.json
 package.json
 poetry.lock
 pyproject.toml
+replit.nix
 libopus.so.0.8.0
 .replit
 .breakpoints
