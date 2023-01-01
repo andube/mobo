@@ -59,10 +59,7 @@ async def on_message(message):
       
     sync_list()
 
-  if message.channel.id == 1026656957165215784:
-    if random.randint(1, 5) == 3:
-      await message.channel.send('bout')
-  elif random.randint(1, 10) == 7:
+  if random.randint(1, 10) == 7:
 
     bot_message = None
     
